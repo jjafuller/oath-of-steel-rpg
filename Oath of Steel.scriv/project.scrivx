@@ -8,14 +8,119 @@
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
             <Children>
-                <BinderItem ID="8" Created="2012-04-12 02:26:21 +0000" Modified="2012-04-12 03:14:52 +0000" Type="Text">
-                    <Title>Setting</Title>
+                <BinderItem ID="8" Created="2012-04-12 02:26:21 +0000" Modified="2012-04-13 00:21:58 +0000" Type="Text">
+                    <Title>Opener</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,1356</TextSelection>
+                        <TextSelection>472,472</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" Created="2012-04-13 00:21:50 +0000" Modified="2012-04-13 01:04:40 +0000" Type="Text">
+                    <Title>Background</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>177,177</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="10" Created="2012-04-13 00:22:02 +0000" Modified="2012-04-14 05:29:51 +0000" Type="Text">
+                    <Title>Gameplay</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1440,1440</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="11" Created="2012-04-14 03:05:30 +0000" Modified="2012-04-14 05:17:17 +0000" Type="Text">
+                    <Title>Player Rules</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2145,2145</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="12" Created="2012-04-14 05:17:45 +0000" Modified="2012-04-14 05:17:47 +0000" Type="Folder">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="13" Created="2012-04-14 05:21:29 +0000" Modified="2012-04-14 05:21:42 +0000" Type="Text">
+                    <Title>Energetic Child</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="14" Created="2012-04-14 05:21:47 +0000" Modified="2012-04-14 05:21:52 +0000" Type="Text">
+                    <Title>Remorseful Wizard</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="15" Created="2012-04-14 05:22:47 +0000" Modified="2012-04-14 05:22:51 +0000" Type="Text">
+                    <Title>Focused Tactitian</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="16" Created="2012-04-14 05:26:11 +0000" Modified="2012-04-14 05:26:18 +0000" Type="Text">
+                    <Title>Vengeful Warrior</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="17" Created="2012-04-14 05:27:35 +0000" Modified="2012-04-14 05:27:36 +0000" Type="Text">
+                    <Title>Manipulative Charmer</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="18" Created="2012-04-14 05:28:04 +0000" Modified="2012-04-14 05:28:05 +0000" Type="Text">
+                    <Title>Arrogant Librarian</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -35,7 +140,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>424,424</TextSelection>
+                        <TextSelection>429,429</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -57,7 +162,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>765,765</TextSelection>
+                        <TextSelection>19,765</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
