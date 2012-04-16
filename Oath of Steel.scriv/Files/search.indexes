@@ -1,14 +1,534 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <SearchIndexes Version="1.0">
     <Documents>
+        <Document ID="25">
+            <Title>FURY Skills</Title>
+            <Text>
+
+
+===== Physical =====
+
+Physical skills reflect your ability to perform activities and interact with the world in a tactile manner.
+
+    * Vigor
+    * Agility
+    * Speed
+    * Endurance
+
+===== Spiritual =====
+
+Spiritual skills relate to your ability to establish internal harmony through the convergence of values and actions while realizing a common purpose the binds the game world together.
+
+    * Presence (Numina/Arcana)
+    * Resolve (Will)
+    * Sanctity
+    * Duty
+
+===== Intellectual =====
+
+Intellectual skills relate to your ability to figure things out, know things, learn, and apply your knowledge.
+
+  * Cunning (Street Smarts)
+  * Knowledge (Book Smarts)
+  * Science
+  * Technology (Applied Science)
+
+===== Emotional =====
+
+Emotional skills relate to your ability to cope with turmoil, as well as share and communicate with others on an primal level.
+
+  * Shepherding (Animal Handling)
+  * Empathy
+  * Composure
+  * Incite
+
+===== Environmental =====
+
+Environmental skills relate to your ability to interact with objects (places, things, and sometimes people) outside of yourself within the game world.
+
+  * Awareness
+  * Survival
+  * Investigation
+  * Navigation
+
+===== Occupational =====
+
+Occupational skills relate to your ability to manage, obtain, and produce equipment and people.
+
+  * Status
+  * Resources
+  * Leadership
+  * Trade
+
+
+===== Social =====
+
+Social abilities relate to your ability to connect, communicate, exploit, and attract other people in the game world.
+
+  * Relationships
+  * Deception
+  * Persuasion
+  * Magnetism
+</Text>
+        </Document>
+        <Document ID="18">
+            <Title>Arrogant Librarian</Title>
+            <Text>Name: Marcellus Nicodeme, or Rosalia Kerstin
+
+Distinctions:
+	○	Pertinacious Librarian
+	○	“Yes, I’ve heard of that but I’ve read better.”
+	○	Permanent Scowl
+
+Role:
+	○	Academic
+	○	Tactician
+	○	Diplomat
+
+Specialties:
+	○	Speed
+	○	Duty
+	○	Book Smarts
+	○	Composure
+	○	Investigation
+	○	Resources
+	○	Deception
+
+Drives:
+	○	Argh! I don’t know the answer to that…what can I say that will sound believable?
+	○	Will I be able to learn everything?
+	○	I’ve finally overcome my sister’s shadow…right?
+</Text>
+        </Document>
+        <Document ID="10">
+            <Title>Gameplay</Title>
+            <Text>Required Materials
+
+Six sided dice, around 10 per player
+At least 3 index cards per player
+At most 4 tokens per player
+A pen for each player
+
+Getting Started
+
+Each player writes down two events on separate index cards.
+Review the events, and revise as necessary to get everyone on the same page.
+Everyone writes down a threat related to the each event they did not create on separate index cards (include the event name on the threat cards)
+Put the events into a logical order and group them in pairs (both of a player’s events cannot be in the same group).
+Each group of events represents a wave of the assault against the Spire.
+Assign each wave an intensity number, starting with the last wave at 5 and counting down towards 1, do not rate any event lower than 1.
+Everyone swears the Oath of Steel.
+Each player takes a champion and a token of fate.
+Proceed with step 1 of Gameplay
+
+Gameplay
+
+Select the first unresolved event, the player that owns that event frames the scene working with other players to incorporate threats. This player’s champion has the spotlight for this scene.
+The champion of the player responsible for the other event in the wave is the co-star.
+All other players are responsible for the threats, and while these players may have champions in the scene the player’s champion cannot interact with the threat they are responsible for.
+Champions take turns resolving threats starting with the spotlight champion, the co-start, and any other champions who are in on the scene.
+If any threats have not been interacted with by the time all the champions have acted, they act against the spotlight champion (champions defend by Taking Action).
+Continue from step 4 until all threats in the scene have been eliminated, and the event resolved.
+Continue from step 1 until all waves have been defeated, or all champions are burnt out.
+Collaboratively tell the epilogue that develops in the wake of battle.
+
+</Text>
+        </Document>
+        <Document ID="26">
+            <Title>Submission</Title>
+            <Text>	•	Chef(s): Jeffrey Fuller
+	•	Title: Oath of Steel
+	•	Link: http://they.misled.us/wp/wp-content/uploads/2012/04/Oath-of-Steel.pdf
+	•	Elevator Pitch: Will Champions defend a legacy of madness to preserve the virtues for which they swore the oath? Or, will they give into the blind hatred?
+	•	Word Count: About 2,500 (not including duplication of rules on character sheets)
+	•	Eligibility: Yes
+
+Will Champions defend a legacy of madness to preserve the virtues for which they swore the oath? Or, will they give into the blind hatred?
+</Text>
+        </Document>
+        <Document ID="19">
+            <Title>Oaths</Title>
+            <Text>Gladiator’s Oath
+
+URI, VINCIRI, VERBERARI, FERROQUE NECARI
+
+“I will endure, to be burned, to be bound, to be beaten, and to be killed by the sword”
+Sacramentum gladiatorium, the oath of the gladiators
+
+- Petronius Satyricon 117 
+
+
+United States Uniformed Services Oath of Office
+
+I, [name], do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties of the office on which I am about to enter. So help me God.[1]
+
+</Text>
+        </Document>
+        <Document ID="11">
+            <Title>Player Rules</Title>
+            <Text>Taking Action
+
+Confronting threats requires sacrifice. Champions may channel their magical reserves, build a dice pool based on their physical abilities, or a combination of the two. Overcoming a threat requires a number of strikes equal to or greater than the intensity of the threat (as defined by the wave). 
+
+Describe what you intend to accomplish.
+Expending Magical Power
+For each point of magical energy spent add a layer of detail on the action. Each point spent results in a strike. Magic can be used to do just about anything, but it cannot reverse entropy.
+Dice pool
+For each trait group select a trait if any are relevant, add a layer of detail to your action based on the trait.
+Expending magical power can be used to add additional dice, one for one with accompanying description. Note that magic spent on dice for the pool do not result in automatic strikes.
+Other champions can assist by expending magical power to add more dice, one for one with accompanying description.
+Roll the dice.
+Each die showing a 4 or higher is a strike.
+If total number of strikes is less than threat’s intensity, take stress equal to the difference
+
+The Wager
+
+Whenever dice are rolled a champion may wager magical power, in essence trying to use their power to salvage unclaimed magical energy lingering in the world. The player selects which numbers to bet on, and an amount of points of power to wager. If any of the dice show the number bet on the player claims power equal to the number of dice showing the number times their wager. A wager of 2 on 5 with a dice result of 1, 5, 5, 5 would pay out 6 points of power.
+
+Aid Another Champion
+
+If your champion is working with the spotlight champion, you can expending magical power to grant them additional dice. For each point of power spent, give them another die. Be sure to describe how your champion is assisting with each point of power spent.
+
+Stress, Death, and Rebirth
+
+All stress is removed at the end of each wave. In the event that a champion’s stress reaches 4 they die. At the beginning of the next round the champion is recreated as they were the moment they originally swore their oath.
+
+Burning Out
+
+Provided a champion has at least 1 point of magic power they can die and be reborn forever. The moment they run out of magical power their corporeal form disintegrates, blowing away like dust on the wind. At this point, if the player had any remaining events they are transferred to another surviving champion. If no champions remain, proceed to the epilogue.
+
+Tokens of Fate
+
+Normally, dice must roll 4 or higher to be considered a strike. A token of fate can change the required outcome in one of two ways. The first way lowers the floor, requiring dice only roll a 3 to be a strike. The alternative is to raise the floor where dice will need to roll a 5 to be considered a strike, however you will double the number of dice you would normally roll. Multiple tokens can be used, and their effects combined.
+
+Resolving Questions
+
+Champions each have a set of questions that drive them. A question can only be resolved when your champion is the spotlight, so make sure to frame your scenes carefully. Every time a question of your champion is resolved you receive a token of fate.</Text>
+        </Document>
+        <Document ID="27">
+            <Title>Dump</Title>
+            <Text>Oath of Steel
+
+“I swear to defend the Nations of the Spire against all enemies; that I will bear true faith and allegiance; that I take this obligation freely, without reservation; and that I will faithfully discharge the duties of Champion knowing that I will endure, be burned, be bound, be beaten, and be killed by the sword in service of this oath.”
+
+The Oath of Steel binds and imbues with power the Champions of the Godkings.
+
+The War of Purification has burnt with fervor for the last seventeen years, swallowing up the lives of over eighty percent of humanity. Sergius, leader of the church of Vitus, uniter of the 72 nations, and sworn defender of the faith, has pledged to eliminate the unholy scourge of magic from the face of Aquila. In the assault against the fledgling magocracies countless have perished before the machines of war created by the Godkinds and their followers.
+
+The Godkinds have fallen, save one, Bellona. She works tirelessly to destroy the veil created by the group of defected wizards, Terminus. Sergius works with Terminus to abolishing magic in the world and with it the corruption its influence has wrought upon its wielders.
+
+Now, the Champions have united in a final defense of Bellona as the armies of faith stand ready to extinguish the light of magic once and for all. 
+
+
+Can the Champions succeed united when they failed as individuals?
+
+
+Will the Champions hold fast, and defend Bellona, and with her the Godkings’ legacy of madness in the hope of preserving the virtues for which they first swore their oaths? Or, will they relent and give into the blind hatred of the 72 nations, and return to the old ways?
+
+What will happen to humanity in the aftermath?
+
+The Flame that Burned Too Bright
+
+Shining alone in its corner of the cosmos, Aquila hosted an affluent flavor of humanity. They developed quickly, but at a sustainable pace until the a young astronomer unlocked the secret of magic. The unlimited power, and latent sentience of the magical energy catapulted technological innovation centuries beyond the means of their society. Culture could not adapt quickly enough, sharp divisions between classes cultivated hatred. Rulers shifted stance, openly condemning the use of magic while secretly harnessing it behind closed doors. The use of magic and tools born of magic became outlawed in all 72 nations. This acted inspired the greatest minds on Aquila to defect, and create their own nations.
+
+Six Nations of the Spire
+
+The six foremost learned amongst their ranks developed the charter, constructing governing rules based around ideals of freedom, and equality. The 72 nations tolerated the existence of these rogue states for several years, because the cost of acting against them would be too great. Each of the six magocracies created a single champion as the manifestation of their scientific advancement.
+
+Champions, and the Oath of Steel
+
+Each champion swore the Oath of Steel, a pledge to defend the realm in perpetuity. In exchange for their service each champion was imbued with super human abilities, acting as vessels for magical energy, and the ability to wield that power directly. An unexpected twist was thrown in, the first sign of corruption from the ruling bodies, a form of immortality that effectively made the champions oath eternal provided they not expend the magical energy housed within their souls. While magic cannot halt the ravages of time it can mimic the past. Upon swearing the Oath each champion’s imprint was united with the essence of the connection between the material world and the meta-physical plane of magic. Upon the death of a champion they are instantly reborn as the day they swore their oath all their memories since lost forever.
+
+Building Tension, and Corruption of the Spire
+
+Before long, the absolute power wielded by the magic users corrupted them utterly. Champions found themselves caught between the values and rulers they swore to protect. The founders overthrew their own governments, naming themselves Godkings. Sergius, as leader of the church of Vitus used this act as the foundation for his argument that the Nations of the Spire be destroyed and with them all magic in the world. Outside the Spire, the rest of the world fell on hard times still dealing with the shock the influence of magic had upon it. Once ignited by Sergius, the flames of hatred burned across the land.
+
+The Great Wars
+
+A brief but potent War of Unification was fought between the 72 nations as Sergius brought them into the fold. Having faith in their absolute superiority, the Nations of the Spire ignored the outside world and their petty squabbling. Soon after the unification completed the War of Purification began. The Nations of the Spire were less than one tenth the size of the 72 nations, but their weapons of war were marvels. Millions died in the initial invasion before a foothold was made. 
+
+Terminus, and the Veil
+
+A handful of powerful wizards had seen enough under the rule of the Godkings. They left the Spire, and performed a potent ritual to block the conduit between the material world, and meta-plane. Far from perfect, the veil proved to stem enough magic energy that the Nations of the Spire fell one by one. Godkings, and their weapons of war lie broken and defeated, save the Champions who died and were reborn countless times. Now, final nation of the Spire stands on the brink of defeat, defended solely by a small group of zealots and of course, the Champions.
+
+Required Materials
+
+	●	Six sided dice, around 10 per player
+	●	At least 3 index cards per player
+	●	At most 4 tokens per player
+	●	A pen for each player
+
+Getting Started
+
+	●	Each player writes down two events on separate index cards.
+	●	Review the events, and revise as necessary to get everyone on the same page.
+	●	Everyone writes down a threat related to the each event they did not create on separate index cards (include the event name on the threat cards)
+	●	Put the events into a logical order and group them in pairs (both of a player’s events cannot be in the same group).
+	●	Each group of events represents a wave of the assault against the Spire.
+	●	Assign each wave an intensity number, starting with the last wave at 5 and counting down towards 1, do not rate any event lower than 1.
+	●	Everyone swears the Oath of Steel.
+	●	Each player takes a champion and a token of fate.
+	●	Proceed with step 1 of Gameplay
+
+Gameplay
+
+	1.	Select the first unresolved event, the player that owns that event frames the scene working with other players to incorporate threats. This player’s champion has the spotlight for this scene.
+	2.	The champion of the player responsible for the other event in the wave is the co-star.
+	3.	All other players are responsible for the threats, and while these players may have champions in the scene the player’s champion cannot interact with the threat they are responsible for.
+	4.	Champions take turns resolving threats starting with the spotlight champion, the co-start, and any other champions who are in on the scene.
+	5.	If any threats have not been interacted with by the time all the champions have acted, they act against the spotlight champion (champions defend by Taking Action).
+	6.	Continue from step 4 until all threats in the scene have been eliminated, and the event resolved.
+	7.	Continue from step 1 until all waves have been defeated, or all champions are burnt out.
+	8.	Collaboratively tell the epilogue that develops in the wake of battle.
+
+Taking Action
+
+Confronting threats requires sacrifice. Champions may channel their magical reserves, build a dice pool based on their physical abilities, or a combination of the two. Overcoming a threat requires a number of strikes equal to or greater than the intensity of the threat (as defined by the wave). 
+
+	●	Describe what you intend to accomplish.
+	●	Expending Magical Power
+	○	For each point of magical energy spent add a layer of detail on the action. Each point spent results in a strike. Magic can be used to do just about anything, but it cannot reverse entropy.
+	●	Dice pool
+	○	For each trait group select a trait if any are relevant, add a layer of detail to your action based on the trait.
+	●	Expending magical power can be used to add additional dice, one for one with accompanying description. Note that magic spent on dice for the pool do not result in automatic strikes.
+	●	Other champions can assist by expending magical power to add more dice, one for one with accompanying description.
+	○	Roll the dice.
+	○	Each die showing a 4 or higher is a strike.
+	●	If total number of strikes is less than threat’s intensity, take stress equal to the difference
+
+The Wager
+
+Whenever dice are rolled a champion may wager magical power, in essence trying to use their power to salvage unclaimed magical energy lingering in the world. The player selects which numbers to bet on, and an amount of points of power to wager. If any of the dice show the number bet on the player claims power equal to the number of dice showing the number times their wager. A wager of 2 on 5 with a dice result of 1, 5, 5, 5 would pay out 6 points of power.
+
+Aid Another Champion
+
+If your champion is working with the spotlight champion, you can expending magical power to grant them additional dice. For each point of power spent, give them another die. Be sure to describe how your champion is assisting with each point of power spent.
+
+Stress, Death, and Rebirth
+
+All stress is removed at the end of each wave. In the event that a champion’s stress reaches 4 they die. At the beginning of the next round the champion is recreated as they were the moment they originally swore their oath.
+
+Burning Out
+
+Provided a champion has at least 1 point of magic power they can die and be reborn forever. The moment they run out of magical power their corporeal form disintegrates, blowing away like dust on the wind. At this point, if the player had any remaining events they are transferred to another surviving champion. If no champions remain, proceed to the epilogue.
+
+Tokens of Fate
+
+Normally, dice must roll 4 or higher to be considered a strike. A token of fate can change the required outcome in one of two ways. The first way lowers the floor, requiring dice only roll a 3 to be a strike. The alternative is to raise the floor where dice will need to roll a 5 to be considered a strike, however you will double the number of dice you would normally roll. Multiple tokens can be used, and their effects combined.
+
+Resolving Questions
+
+Champions each have a set of questions that drive them. A question can only be resolved when your champion is the spotlight, so make sure to frame your scenes carefully. Every time a question of your champion is resolved you receive a token of fate.
+
+Name: Pit Antton or Sara Feidhelm
+
+Distinctions: 
+	○	Exuberant Child
+	○	Inquisitive Nature
+	○	Lives for Adventure
+
+Role:
+	○	Infiltrator
+	○	Pilot
+	○	Warrior
+
+Specialties:
+	○	Vigor
+	○	Duty
+	○	Technology
+	○	Incite
+	○	Navigation
+	○	Resources
+	○	Relationships
+
+Drives:  (questions)
+	•	The blue men among those who fight us, who are they?
+	•	Everything is so exciting right now, why is everyone so worried?
+	•	What can I do that will make people remember me in song…forever?
+	•	
+
+Name: Pit Antton or Sara Feidhelm
+
+Distinctions: 
+	○	Exuberant Child
+	○	Inquisitive Nature
+	○	Lives for Adventure
+
+Role:
+	○	Infiltrator
+	○	Pilot
+	○	Warrior
+
+Specialties:
+	○	Vigor
+	○	Duty
+	○	Technology
+	○	Incite
+	○	Navigation
+	○	Resources
+	○	Relationships
+
+Drives:  (questions)
+	●	The blue men among those who fight us, who are they?
+	○	Everything is so exciting right now, why is everyone so worried?
+	○	What can I do that will make people remember me in song…forever?
+
+
+Name: Pit Antton or Sara Feidhelm
+
+Distinctions: 
+	○	Exuberant Child
+	○	Inquisitive Nature
+	○	Lives for Adventure
+
+Role:
+	○	Infiltrator
+	○	Pilot
+	○	Warrior
+
+Specialties:
+	○	Vigor
+	○	Duty
+	○	Technology
+	○	Incite
+	○	Navigation
+	○	Resources
+	○	Relationships
+
+Drives:  (questions)
+	●	The blue men among those who fight us, who are they?
+	○	Everything is so exciting right now, why is everyone so worried?
+	○	What can I do that will make people remember me in song…forever?
+
+
+Name: Pit Antton or Sara Feidhelm
+
+Distinctions: 
+	○	Exuberant Child
+	○	Inquisitive Nature
+	○	Lives for Adventure
+
+Role:
+	○	Infiltrator
+	○	Pilot
+	○	Warrior
+
+Specialties:
+	○	Vigor
+	○	Duty
+	○	Technology
+	○	Incite
+	○	Navigation
+	○	Resources
+	○	Relationships
+
+Drives:  (questions)
+	●	The blue men among those who fight us, who are they?
+	○	Everything is so exciting right now, why is everyone so worried?
+	○	What can I do that will make people remember me in song…forever?
+
+
+Name: Pit Antton or Sara Feidhelm
+
+Distinctions: 
+	○	Exuberant Child
+	○	Inquisitive Nature
+	○	Lives for Adventure
+
+Role:
+	○	Infiltrator
+	○	Pilot
+	○	Warrior
+
+Specialties:
+	○	Vigor
+	○	Duty
+	○	Technology
+	○	Incite
+	○	Navigation
+	○	Resources
+	○	Relationships
+
+Drives:  (questions)
+	●	The blue men among those who fight us, who are they?
+	○	Everything is so exciting right now, why is everyone so worried?
+	○	What can I do that will make people remember me in song…forever?
+
+
+Name: Pit Antton or Sara Feidhelm
+
+Distinctions: 
+	○	Exuberant Child
+	○	Inquisitive Nature
+	○	Lives for Adventure
+
+Role:
+	○	Infiltrator
+	○	Pilot
+	○	Warrior
+
+Specialties:
+	○	Vigor
+	○	Duty
+	○	Technology
+	○	Incite
+	○	Navigation
+	○	Resources
+	○	Relationships
+
+Drives:  (questions)
+	●	The blue men among those who fight us, who are they?
+	○	Everything is so exciting right now, why is everyone so worried?
+	○	What can I do that will make people remember me in song…forever?
+
+</Text>
+        </Document>
         <Document ID="0">
             <Title>Draft</Title>
+        </Document>
+        <Document ID="12">
+            <Title>Characters</Title>
         </Document>
         <Document ID="1">
             <Title>Research</Title>
         </Document>
+        <Document ID="20">
+            <Title>Oath of Steel</Title>
+            <Text>Oath of Steel
+
+“I swear to defend the Nations of the Spire against all enemies; that I will bear true faith and allegiance; that I take this obligation freely, without reservation; and that I will faithfully discharge the duties of Champion knowing that I will endure, be burned, be bound, be beaten, and be killed by the sword in service of this oath.”</Text>
+        </Document>
         <Document ID="2">
             <Title>Trash</Title>
+        </Document>
+        <Document ID="13">
+            <Title>Energetic Child</Title>
+            <Text>Name: Pit Antton or Sara Feidhelm
+
+Distinctions: 
+Exuberant Child
+Inquisitive Nature
+Lives for Adventure
+
+Role:
+Infiltrator
+Pilot
+Warrior
+
+Specialties:
+Vigor
+Duty
+Technology
+Incite
+Navigation
+Resources
+Relationships
+
+Drives:  (questions)
+The blue men among those who fight us, who are they?
+Everything is so exciting right now, why is everyone so worried?
+What can I do that will make people remember me in song…forever?
+</Text>
         </Document>
         <Document ID="3">
             <Title>Ingredients</Title>
@@ -34,6 +554,43 @@ Mimic = ETHOLOGUS
 
 </Text>
         </Document>
+        <Document ID="21">
+            <Title>Archetypes</Title>
+            <Text>Energetic Child
+Remorseful Wizard
+Focused Tactician
+Vengeful Warrior
+Manipulative Charmer
+Arrogant Librarian</Text>
+        </Document>
+        <Document ID="14">
+            <Title>Remorseful Wizard</Title>
+            <Text>Name: Arend Emmanouel, or Yvette Sens
+
+Distinctions:
+Regretful Sorcerer
+Air of Professionalism
+Recently Developed Sense of Ethics
+
+Role:
+Academic
+Warrior
+Diplomat
+
+Specialties:
+Agility
+Presence
+Science
+Empathy
+Navigation
+Sorcery
+Persuasion
+
+Drives:
+Magic has done terrible things, how can I overcome hatred?
+I can feel the influence that power is wielding over me, how can I transcend it?
+How will I end this war?</Text>
+        </Document>
         <Document ID="4">
             <Title>Three Questions</Title>
             <Text>What is the game about?
@@ -58,6 +615,95 @@ The game is played between a player and a banker. A canvas or felt mat marked wi
 On average, the player will win 92.1% of the amount he bets; that is, over time he will lose 7.9% of whatever he bets. Thus, the banker has a substantial edge. In a game at a festival or casino, the house will be banker. In a game among friends, each person serves as banker in turn.
 </Text>
         </Document>
+        <Document ID="15">
+            <Title>Focused Tactitian</Title>
+            <Text>Name: Elpidios Anselm, or Maxima Zivit
+
+Distinctions:
+Master Tactician
+Grizzled Veteran
+Decisive
+
+Role:
+Strategist
+Soldier
+Diplomat
+
+Specialties:
+Endurance
+Presence
+Cunning
+Composure
+Survival
+Leadership
+Magnetism
+
+Drives:
+What information can I discover to help me find my daughter?
+How will I punish those who took my daughter?
+How will I persevere when I fail those that depend on me, again?
+</Text>
+        </Document>
+        <Document ID="22">
+            <Title>TEMPLATE</Title>
+            <Text>Names:
+
+Distinctions:
+
+Role:
+
+Specialties:
+
+Drives:
+
+Role:
+Strategist
+Diplomat
+Soldier
+Infiltrator
+Academic
+Pilot
+
+Specialties:
+
+Physical
+Vigor
+Agility
+Speed
+Endurance
+Spiritual
+Presence
+Resolve
+Sanctity
+Duty
+Intellectual
+Cunning (street smarts)
+Knowledge (book smarts)
+Science
+Technology (applied science)
+Emotional
+Shepherding
+Empathy
+Composure
+Incite
+Environmental
+Awareness
+Survival
+Investigation
+Navigation
+Occupational
+Status
+Resources
+Leadership
+Trade
+Social
+Relationships
+Deception
+Persuasion
+Magnetism
+
+Drives:  (questions)</Text>
+        </Document>
         <Document ID="6">
             <Title>Rules</Title>
             <Text>Game Chef 2012
@@ -72,6 +718,54 @@ Discussions: Talk about Game Chef wherever you want, as much or as little as you
 Submission: Submit your game by midnight (your time zone) April 15th.
 Peer Review: Participants will be randomly assigned 4 games to read, and will recommend 1 game to go on to the second round.
 Winners: The games with the most recommendations (3 or 4) will be closely reviewed by Game Chef founder Mike Holmes and the current Master Chef, to determine the overall winner.</Text>
+        </Document>
+        <Document ID="23">
+            <Title>Names</Title>
+            <Text>Names
+
+Male
+
+Berhtoald, Wolfgang, Nikias, Nikomedes, Basilius, Otmar, Vitus, Friduric, Brian, Hardwin, Meinrad, Adalberht, Dion, Philon, Oddr, Alexandros, Aegidius, Martialis, Domitius, Chlodochar, Landebert, Cyneweard, Glaedwine, Heimirich, Agathon, Democritus, Eadweard, Nikolaos, Aldhard, Camillus, Eustachus, Victorinus, Lykourgos, Ekkehard, Osmund
+
+
+Female
+
+Vibiana, Eulalia, Marcia, Valdis, Runa, Euphrasia, Odilia, Zoe, Isidora Ragna, Geretrudis, Anastasia, Kallisto, Tryphaina, Aikaterine, Amanda, Helewidis, Laetitia, Balbina, Amelina, Ida, Felicitas, Hild, Alba, Gerhild, Xeno, Lucretia, Agrippina, Romana, Hailwic, Chloe, Valeriana, Marcia, Sigrun
+
+Surnames
+
+Gumarich, Iodocus, Kleon, Nikomachos, Eustachus, Clementius, Raginhard, Timaeus, Sophocles, Gaiana, Hallr, Fabricia, Leonius, Delphinus, Engilram, Valerianus
+
+</Text>
+        </Document>
+        <Document ID="16">
+            <Title>Vengeful Warrior</Title>
+            <Text>Name: Denis Celsus, or Tatjana Tsvetanka
+
+Distinctions:
+Jaded, Former Mercenary
+Wields Ridiculously Large Weapons, Effortlessly
+“I am vengeance made flesh”
+
+Role:
+Warrior
+Pilot
+Soldier
+
+Specialties:
+Strength
+Resolve
+Technology
+Shepherding
+Awareness
+Master at Arms
+Persuasion
+
+Drives:
+How can I leave Sergius to die, bloody and broken, just like he did to me?
+Are the Godkings of the Spiral really any better?
+How can I live after all my enemies are dead?
+</Text>
         </Document>
         <Document ID="7">
             <Title>Rules of Magic</Title>
@@ -93,11 +787,11 @@ Science and magic become indistinguishable
         </Document>
         <Document ID="8">
             <Title>Opener</Title>
-            <Text>The Oath of Steel binds and imbues with power the Champions of the Godkings. 
+            <Text>The Oath of Steel binds and imbues with power the Champions of the Godkings.
 
 The War of Purification has burnt with fervor for the last seventeen years, swallowing up the lives of over eighty percent of humanity. Sergius, leader of the church of Vitus, uniter of the 72 nations, and sworn defender of the faith, has pledged to eliminate the unholy scourge of magic from the face of Aquila. In the assault against the fledgling magocracies countless have perished before the machines of war created by the Godkinds and their followers.
 
-The Godkinds have fallen, save one, Bellona. She works tirelessly to destroy the veil created by the group of defected wizards known only as, Terminus, who are working with Sergius to abolishing magic in the world and with it the corruption its influence has wrought upon its wielders.
+The Godkinds have fallen, save one, Bellona. She works tirelessly to destroy the veil created by the group of defected wizards, Terminus. Sergius works with Terminus to abolishing magic in the world and with it the corruption its influence has wrought upon its wielders.
 
 Now, the Champions have united in a final defense of Bellona as the armies of faith stand ready to extinguish the light of magic once and for all. 
 
@@ -105,76 +799,86 @@ Now, the Champions have united in a final defense of Bellona as the armies of fa
 Can the Champions succeed united when they failed as individuals?
 
 
-Will the Champions hold fast, and defend Bellona, and with her the Godkings’ legacy of madness in the hopes of holding the virtues for which they first swore their oaths? Or, will they relent and give into the blind hatred of the faith, and return to the old ways?
-
+Will the Champions hold fast, and defend Bellona, and with her the Godkings’ legacy of madness in the hope of preserving the virtues for which they first swore their oaths? Or, will they relent and give into the blind hatred of the 72 nations, and return to the old ways?
 
 What will happen to humanity in the aftermath?</Text>
+        </Document>
+        <Document ID="24">
+            <Title>Links</Title>
+            <Text>Typeface Best Practices
+
+http://www.smashingmagazine.com/2010/11/04/best-practices-of-combining-typefaces/
+
+Fonts
+
+http://www.dafont.com/theme.php?cat=204&amp;text=Oath+of+Steel
+
+Helmet
+
+http://www.istockphoto.com/stock-illustration-8543754-illustration-of-spartan-roman-greek-trojan-or-gladiator-helmet.php?st=8c9bdf5
+
+Borders
+
+http://www.istockphoto.com/stock-illustration-9082184-blue-grunge-floral-growth-watercolor.php?st=09a1724
+
+http://www.istockphoto.com/stock-illustration-7308856-gold-and-sepia-scrolls.php?st=b2c1235</Text>
+        </Document>
+        <Document ID="17">
+            <Title>Manipulative Charmer</Title>
+            <Text>Name: Harold Lazzaro, or Odelia Karnin
+
+Distinctions:
+Dangerously Alluring
+Chameleon
+Always has Ulterior Motives
+
+Role:
+Infiltrator
+Enchanter
+Strategist
+
+Specialties:
+Agility
+Sanctity
+Book Smarts
+Empathy
+Investigation
+Status
+Magnetism
+
+Drives:
+I cannot dirty my hands with this, I’ll need another champion to do it?
+How can I keep everyone in the dark about my actual intentions?
+How did I become so narcissistic? 
+
+
+</Text>
         </Document>
         <Document ID="9">
             <Title>Background</Title>
             <Text>The Flame that Burned Too Bright
 
-Shining alone in its corner of the cosmos, Aquila hosted an affluent flavor of humanity. They developed quickly, but at a sustainable pace until the a young astronomer unlocked the secret of magic. The unlimited power, and latent sentience of the magical energy catapulted technological innovation centuries beyond the means of their society. Culture could not adapt quickly enough, sharp divisions between classes cultivated hatred. Rulers shifted stance, openly condemning the use of magic while secretly harnessing it behind closed doors. The use or magic, and tools born of magic became outlawed in all 72 nations inspiring the greatest minds on Aquila to defect, and create their own nations.
+Shining alone in its corner of the cosmos, Aquila hosted an affluent flavor of humanity. They developed quickly, but at a sustainable pace until the a young astronomer unlocked the secret of magic. The unlimited power, and latent sentience of the magical energy catapulted technological innovation centuries beyond the means of their society. Culture could not adapt quickly enough, sharp divisions between classes cultivated hatred. Rulers shifted stance, openly condemning the use of magic while secretly harnessing it behind closed doors. The use of magic and tools born of magic became outlawed in all 72 nations. This acted inspired the greatest minds on Aquila to defect, and create their own nations.
 
 Six Nations of the Spire
 
-The six foremost learned amongst their ranks developed their charter, constructing governing rules based around ideals of freedom, and equality. The 72 nations tolerated the existence of these rogue states for several years, because the cost of acting against them would be too great. Each of the six magacracies created a single champion, the manifestation of their scientific advancement. 
+The six foremost learned amongst their ranks developed the charter, constructing governing rules based around ideals of freedom, and equality. The 72 nations tolerated the existence of these rogue states for several years, because the cost of acting against them would be too great. Each of the six magocracies created a single champion as the manifestation of their scientific advancement.
 
 Champions, and the Oath of Steel
 
-Each champion swore the Oath of Steel, a pledge to uphold the ideals espoused by their founds, and to defend the realm in perpetuity. In exchange for their service each champion was imbued with super human abilities, acting as vessels for magical energy, and the ability to wield that power directly. An unexpected twist was thrown in, the first sign of corruption within the ruling bodies, a form of immortality that effectively made their oath eternal provided the champions not expend the magical energy housed within their souls. Magic cannot halt the ravages of time, but it can mimic the past. Upon swearing the Oath each champion’s imprint was united with the essence of the connection between the material world, and the meta-physical plane of magic. Upon the death of a champion, they are instantly reborn as the day they swore their oath.
+Each champion swore the Oath of Steel, a pledge to defend the realm in perpetuity. In exchange for their service each champion was imbued with super human abilities, acting as vessels for magical energy, and the ability to wield that power directly. An unexpected twist was thrown in, the first sign of corruption from the ruling bodies, a form of immortality that effectively made the champions oath eternal provided they not expend the magical energy housed within their souls. While magic cannot halt the ravages of time it can mimic the past. Upon swearing the Oath each champion’s imprint was united with the essence of the connection between the material world and the meta-physical plane of magic. Upon the death of a champion they are instantly reborn as the day they swore their oath all their memories since lost forever.
 
 Building Tension, and Corruption of the Spire
 
-Before long, the absolute power wielded by the magic using class corrupted them utterly. Champions found themselves caught between the values and rules they swore to uphold and protect. The founders overthrew their own governments, naming themselves Godkings. Sergius, as leader of the church of Vitus uses this corruption as the foundation for his argument that the nations of the Spire be destroyed, and with them magic wiped from the planet. Outside the Spire, the rest of the world fell on hard times still dealing with the shock the influence of magic had upon it. Once ignited by Sergius, the flames of hatred burned across the land.
+Before long, the absolute power wielded by the magic users corrupted them utterly. Champions found themselves caught between the values and rulers they swore to protect. The founders overthrew their own governments, naming themselves Godkings. Sergius, as leader of the church of Vitus used this act as the foundation for his argument that the Nations of the Spire be destroyed and with them all magic in the world. Outside the Spire, the rest of the world fell on hard times still dealing with the shock the influence of magic had upon it. Once ignited by Sergius, the flames of hatred burned across the land.
 
 The Great Wars
 
-A brief but potent War of Unification was fought throughout the 72 nations as Sergius brought them into the fold. Having faith in their absolute superiority, the peoples of the Spire ignored the outside world, and their petty squabbling, a dire mistake. Soon after the unification began the War of Purification. The peoples of the Spire were less than one tenth that of the 72 nations, but their weapons of war were marvels. Millions died in the invasion before a foothold was made. 
+A brief but potent War of Unification was fought between the 72 nations as Sergius brought them into the fold. Having faith in their absolute superiority, the Nations of the Spire ignored the outside world and their petty squabbling. Soon after the unification completed the War of Purification began. The Nations of the Spire were less than one tenth the size of the 72 nations, but their weapons of war were marvels. Millions died in the initial invasion before a foothold was made. 
 
-Terminus and the Veil
+Terminus, and the Veil
 
-A handful of powerful wizards had seen enough under the rule of the Godkings. They left the Spire, and performed a potent ritual to block the conduit between the material world, and meta-plane. Far from perfect, the veil proved to stem enough magic energy that the nations of Spire fell one by one. Godkings, and their weapons of wore lie broke and defeated, save the Champions who died and were reborn countless times. Now, final nation of the Spire stands on the brink of defeat, defended solely by a small group of zealots and of course, the champions.</Text>
-        </Document>
-        <Document ID="10">
-            <Title>Gameplay</Title>
-            <Text>Setup
-
-Each player defined two events, and writes them down on index cards, these events will occur during play
-The invasion of the spire will have one wave per player
-Put events into a logical order, two per wave, both of a player’s events cannot be in the same wave
-Select an event in the wave, that player get the spotlight, they frame the scene in which the event occurs. Other players create threats surrounding the event, threats are rated based on the wave they are in. The last wave contains threats of rating 5, stepping down one for each preceding wave.
-Each player is responsible for threats they created
-A player’s champion cannot confront a threat they created
-
-Taking Action
-
-Describe what you intend to accomplish
-Dice pool
-For each trait group select a trait if relevant, with it add a layer of detail to your action
-Roll the dice
-Each number greater than three is a hit
-Dead a number of hits equal to the threat to eliminate it
-If total hits are less than threat level, take stress equal to the difference
-Expending magical power can be used to add additional dice, one for one with accompanying description
-Expending Magical Power
-Rather than rolling dice, magical power can be expended to defeat threats, for each point of magical energy add a layer of detail on the action
-
-The Wager
-
-Whenever dice are rolled a player may wager magical power, in essence trying to use their power to salvage unclaimed power lingering in the world. The player selected which numbers to wager on, and an amount of power to bet. If any of the dice show the number wager on the player claims power equal to the number of dice showing the number ties their wager.
-
-Resolving Questions
-
-Players should frame scenes so that they have an opportunity to resolve the questions on their character sheets. By resolving a question, the player receive a fate chip. Fate chips can be used to lower the result required for a hit on a role.
-
-Action Order
-
-Select the champion or threat that most logically goes first
-After that player goes they may choose a threat of champion to go next, etc…
-All champions and threats must act before a new round begins
-
-</Text>
+A handful of powerful wizards had seen enough under the rule of the Godkings. They left the Spire, and performed a potent ritual to block the conduit between the material world, and meta-plane. Far from perfect, the veil proved to stem enough magic energy that the Nations of the Spire fell one by one. Godkings, and their weapons of war lie broken and defeated, save the Champions who died and were reborn countless times. Now, final nation of the Spire stands on the brink of defeat, defended solely by a small group of zealots and of course, the Champions.</Text>
         </Document>
     </Documents>
 </SearchIndexes>
